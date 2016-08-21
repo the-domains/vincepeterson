@@ -1,20 +1,14 @@
-layout_spectrum: 0.6146631182637066
-typography_spectrum: 0.24031592928804457
+layout_spectrum: 0.5938377
 color:
-  saturation: 0.12307034968398511
-  lightness: 0.4416001175995916
-  brandStrength: 0.9704601666890085
+  saturation: 0.2241599
+  lightness: 0.7432136
+  brandStrength: 0.490333
   brandColors:
     - '#FFFFFF'
-    - '#E8E0ED'
-    - '#CDC5D2'
-    - '#21263C'
-    - '#484A5F'
-  rhythmicContrast: 0.9317759892437607
-author:
-  name: Vince Peterson Music
-  email: vincepeterson@gmail.com
-  url: vincepeterson.com
-name: vincepeterson.com
-title: Vince Peterson
-description: 'Composer, Conductor, Keyboardist'
+    - '#B2A8B3'
+    - '#222840'
+    - '#484A60'
+    - '#815B5A'
+  rhythmicContrast: 0.4135274
+typography_spectrum: 1
+name: vincepeterson
