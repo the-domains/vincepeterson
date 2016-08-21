@@ -11,6 +11,10 @@ color:
     - '#815B5A'
   rhythmicContrast: 0.4135274
 layout_spectrum: 0.5938377
-name: vincepeterson
+author:
+  name: Vince Peterson Music
+  email: vincepeterson@gmail.com
+  url: vincepeterson.com
+name: vincepeterson.com
 title: Vince Peterson
 description: 'Composer, Conductor, Keyboardist'
