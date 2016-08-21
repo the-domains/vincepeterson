@@ -1,0 +1,15 @@
+typography_spectrum: 1
+color:
+  saturation: 0.2241599
+  lightness: 0.7432136
+  brandStrength: 0.490333
+  brandColors:
+    - '#FFFFFF'
+    - '#B2A8B3'
+    - '#222840'
+    - '#484A60'
+    - '#815B5A'
+  rhythmicContrast: 0.4135274
+layout_spectrum: 0.5938377
+name: vincepeterson
+description: 'Composer, Conductor, Keyboardist'
